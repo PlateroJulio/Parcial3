@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001343527562",
+    "project_id": "estp3-parcial3",
+    "storage_bucket": "estp3-parcial3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001343527562:android:f872f90334e37ff4905b73",
+        "android_client_info": {
+          "package_name": "com.example.parcial3_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001343527562-vcr8ndg02orhg9qp912lf770g9tbk10f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE-NXJH716TTApo8KDxrDk6dGwGwYWe7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001343527562-vcr8ndg02orhg9qp912lf770g9tbk10f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
